@@ -1,0 +1,21 @@
+How to run the project.
+
+Front-end
+
+1. navigate to 'my-app' and run "npm install"
+2. Upon completion of npm install run "npm start"
+
+Back-end
+
+1. navigate to 'server' and run "npm install"
+2. pon completion of npm install run "npx nodemon index.js"
+
+
+Things skiped:
+
+1. Unit testing
+2. Dockerizing 
+
+
+
+
