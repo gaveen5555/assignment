@@ -8,7 +8,7 @@ Front-end
 Back-end
 
 1. navigate to 'server' and run "npm install"
-2. pon completion of npm install run "npx nodemon index.js"
+2. Upon completion of npm install run "npx nodemon index.js"
 
 
 Things skiped:
